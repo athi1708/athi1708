@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Athithya
 
-<!--
-**athi1708/athi1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Data Science Student  
+💻 Passionate about building real-world projects  
+🎯 Future Data Scientist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 College student learning AI & Data Science  
+- 🧠 Exploring Machine Learning and Data Analysis  
+- ⚡ Building real-world projects  
+
+---
+
+## 🛠️ Tech Stack
+- Python  
+- Data Structures  
+- Machine Learning  
+- Artificial Intelligence  
+- MySQL  
+- HTML, CSS, JavaScript  
+- Java  
+
+---
+
+## 🚀 Projects
+- 📊 IPL Analysis (Power BI Dashboard)  
+- 📉 Customer Churn Prediction  
+
+
+---
+
+## 📈 Goals
+- Become a Data Scientist  
+- Build AI-based real-world applications  
+- Improve problem-solving skills  
+
+---
+
+## 📫 Contact
+- Email: athithyaa347@gmail.com
+
+---
+
+⭐ Learn • Build • Improve • Repeat
