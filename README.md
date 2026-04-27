@@ -41,8 +41,8 @@ AI & Data Science Student | Machine Learning Enthusiast
 
 ## 📂 Projects
 - Customer Churn Prediction  
-- Voice-Based Billing System  
-- Student Progress Analysis  
+- Ipl analysis
+
 
 ---
 
