@@ -11,8 +11,7 @@ AI & Data Science Student | Machine Learning Enthusiast
 - 🎓 Pursuing Bachelor's in AI & Data Science  
 - 💻 Skilled in Python, SQL, Java, HTML, CSS  
 - 🤖 Interested in Machine Learning and Data Analytics  
-- 🚀 Building real-world projects like Customer Churn Prediction  
-- 📈 Learning Power BI and improving data skills  
+- 🚀 Building real-world projects 
 
 ---
 
