@@ -11,7 +11,8 @@ AI & Data Science Student | Machine Learning Enthusiast
 - 🎓 Pursuing Bachelor's in AI & Data Science  
 - 💻 Skilled in Python, SQL, Java, HTML, CSS  
 - 🤖 Interested in Machine Learning and Data Analytics  
-- 🚀 Building real-world projects 
+- 🚀 Building real-world projects like Customer Churn Prediction  
+- 📈 Learning Power BI  
 
 ---
 
@@ -39,9 +40,8 @@ AI & Data Science Student | Machine Learning Enthusiast
 ---
 
 ## 📂 Projects
-- Customer Churn Prediction  
+- Customer Churn Prediction
 - Ipl analysis
-
 
 ---
 
@@ -50,3 +50,11 @@ AI & Data Science Student | Machine Learning Enthusiast
 ![Stats](https://github-readme-stats.vercel.app/api?username=athi1708&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/athithya-s-b91b4b292/)
+
+📧 Email: athithyaa347@gmail.com
