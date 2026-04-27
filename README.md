@@ -6,7 +6,6 @@
 - 🤖 Interested in Machine Learning and real-world projects  
 - 🚀 Currently working on improving my Data Science skills  
 
----
 
 ## 🛠 Tools & Technologies
 
@@ -28,12 +27,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
 
----
 
-## 📂 Projects
-- Customer Churn Prediction  
-
----
 
 ## 📊 GitHub Stats
 
