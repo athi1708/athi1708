@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Athithya 👋</h1>
 
-<hr>
-
 <p align="center">
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="180"/>
 </p>
