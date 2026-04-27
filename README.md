@@ -1,45 +1,17 @@
-# 👋 Hi, I'm Athithya
+# Hi, I'm Athithya 👋
 
-🚀 AI & Data Science Student  
-💻 Passionate about building real-world projects  
-🎯 Future Data Scientist  
+## About Me
+- AI & Data Science Student
+- Learning Python, Java, SQL
+- Building ML Projects
 
+## Skills
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![SQL](https://img.shields.io/badge/SQL-green)
 
+## GitHub Stats
 
-##  About Me
--  College student learning AI & Data Science  
--  Exploring Machine Learning and Data Analysis  
--  Building real-world projects  
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
-
-
-##  Tech Stack
-- Python  
-- Data Structures  
-- Machine Learning  
-- Artificial Intelligence  
-- MySQL  
-- HTML, CSS, JavaScript  
-- Java  
-
-
-
-##  Projects
--  IPL Analysis (Power BI Dashboard)  
-- Customer Churn Prediction  
-
-
-
-##  Goals
-- Become a Data Scientist  
-- Build AI-based real-world applications  
-- Improve problem-solving skills  
-
-
-
-##  Contact
-- Email: athithyaa347@gmail.com
-
-
-
-⭐ Learn • Build • Improve • Repeat
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
