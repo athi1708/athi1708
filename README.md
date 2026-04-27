@@ -11,7 +11,6 @@
 ![SQL](https://img.shields.io/badge/SQL-green)
 
 ## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=athi1708&show_icons=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact)
