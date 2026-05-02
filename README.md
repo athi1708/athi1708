@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Github stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=athi1708&show_icons=true)]
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact)
+!![Athithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=athi1708&show_icons=true&theme=tokyonight)
+Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact)
