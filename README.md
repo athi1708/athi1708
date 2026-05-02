@@ -4,6 +4,8 @@
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="180"/>
 </p>
 
+---
+
 ## 👋 About Me
 
 <table>
@@ -56,12 +58,40 @@
 ---
 
 ## 📂 Projects
-- Customer Churn Prediction    
+- Customer Churn Prediction  
 - IPL Analysis  
 
 ---
 
-## 📊 Github stats
+## 📊 GitHub Stats
 
-!![Athithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=athi1708&show_icons=true&theme=tokyonight)
-Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athi1708&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=athi1708&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=athi1708&label=Profile%20views&color=blue&style=flat"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/athithya-s-b91b4b292/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
