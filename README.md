@@ -4,33 +4,20 @@
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="180"/>
 </p>
 
+<p align="center">
+  🎓 AI & Data Science Student | 💻 Aspiring Data Scientist | 🚀 Building Real-World Projects
+</p>
+
 ---
 
 ## 👋 About Me
 
-<table>
-<tr>
-
-<td width="70%">
-
-- 🎓 Pursuing **B.Tech in AI & Data Science**
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
 - 💻 Skilled in **Python, SQL, Java, HTML, CSS**
-- 🤖 Interested in **Machine Learning & Data Analytics**
-- 🚀 Currently building **Data Science Projects**
+- 🤖 Interested in **Machine Learning, Data Analytics & AI**
+- 🚀 Currently building **portfolio projects for placements**
+- 📈 Learning **DSA + Data Science roadmap**
 - 📬 Reach me at: **athithyaa347@gmail.com**
-
-</td>
-
-<td width="30%">
-
-<a href="https://www.linkedin.com/in/athithya-s-b91b4b292/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="100"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -63,17 +50,43 @@
 
 ## 📂 Projects
 
-- 🔍 **Customer Churn Prediction**
-- 📈 **IPL Data Analysis**
+### 🔍 Customer Churn Prediction
+- Built a machine learning model to predict customer churn  
+- Used **Python, Pandas, Scikit-learn**  
+- Includes data preprocessing, model training, and evaluation  
+
+---
+
+### 📈 IPL Data Analysis
+- Analyzed IPL dataset to extract insights  
+- Created visualizations and dashboards  
+- Used **Python, Pandas, Matplotlib / Power BI**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-README-stats.vercel.app/api?username=athi1708&show_icons=true&theme=tokyonight" />
-  <img src="https://github-README-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=athi1708&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=athi1708&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 📌 Build **3–5 strong Data Science projects**
+- 📌 Improve **DSA problem-solving skills**
+- 📌 Prepare for **top tech companies (Google-level)**
+- 📌 Strengthen **communication & interview skills**
 
 ---
 
@@ -84,3 +97,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
+---
+
+## 💡 Fun Fact
+
+😴 I love sleeping... but I'm working hard to achieve big goals 🚀
