@@ -66,6 +66,8 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=athi1708&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=athi1708&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact&theme=tokyonight" />
