@@ -59,8 +59,8 @@
 
 ## 📂 Projects
 - Customer Churn Prediction  
-- Voice-Based Billing System  
-- Student Progress Analysis  
+- Rag app
+  IPL Analysis  
 
 ---
 
