@@ -60,7 +60,7 @@
 ## 📂 Projects
 - Customer Churn Prediction  
 - Rag app
-  IPL Analysis  
+- -IPL Analysis  
 
 ---
 
