@@ -15,7 +15,7 @@
 
 - 🎓 Hey! I'm Athithya, pursuing AI & Data Science  
 - 💻 Skilled in Python, SQL, Java, HTML, CSS  
-- 🤖 Interested in Machine Learning and Data Analytics  
+- 🤖 Interested in Machine Learning and Data Science  
 - 🚀 Building real worls projects 
 - 📬 Reach me at: athithyaa347@gmail.com
 
