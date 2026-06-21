@@ -59,7 +59,7 @@
 
 ## 📂 Projects
 - Customer Churn Prediction  [https://athi1708.github.io/churn-prediction/]
-- Rag app
+- rag-app
 - IPL Analysis  
 
 ---
