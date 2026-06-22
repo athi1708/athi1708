@@ -61,5 +61,6 @@
 - Customer Churn Prediction  [https://athi1708.github.io/churn-prediction/]
 - rag-app
 - IPL Analysis  
+- object-detection
 
 ---
