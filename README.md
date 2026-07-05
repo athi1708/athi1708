@@ -58,9 +58,21 @@
 ---
 
 ## 📂 Projects
-- Customer Churn Prediction  [https://athi1708.github.io/churn-prediction/]
-- rag-app
-- IPL Analysis  
-- object-detection
+
+- 🤖 **ReviewAI**  
+  🔗 [Repository](https://github.com/athi1708/reviewai)
+
+- 📊 **Customer Churn Prediction**  
+  🌐 [Live Demo](https://athi1708.github.io/churn-prediction/)  
+  🔗 [Repository](https://github.com/athi1708/churn-prediction)
+
+- 🏏 **IPL Analysis**  
+  🔗 [Repository](https://github.com/athi1708/ipl-analysis)
+
+- 👁️ **Object Detection**  
+  🔗 [Repository](https://github.com/athi1708/object-detection)
+
+- 📚 **RAG App**  
+  🔗 [Repository](https://github.com/athi1708/rag-app)
 
 ---
