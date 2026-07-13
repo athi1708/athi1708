@@ -71,11 +71,11 @@
   🔗 [Repository](https://github.com/athi1708/ipl-analysis)
 
 - 👁️ **Object Detection**
-  🌐 [Live Demo](https://object-detection-5p7rjnpjdt9gppf4i7gppy.streamlit.app/)
-  🔗 [Repository](https://github.com/athi1708/object-detection)
+- 🌐 [Live Demo](https://object-detection-5p7rjnpjdt9gppf4i7gppy.streamlit.app/)
+- 🔗 [Repository](https://github.com/athi1708/object-detection)
 
 - 📚 **RAG App**
-  🌐 [Live Demo](https://rag-app-jhp6uegy3xyubvdbf4qpfj.streamlit.app/)
-  🔗 [Repository](https://github.com/athi1708/rag-app)
+- 🌐 [Live Demo](https://rag-app-jhp6uegy3xyubvdbf4qpfj.streamlit.app/)
+- 🔗 [Repository](https://github.com/athi1708/rag-app)
 
 ---
