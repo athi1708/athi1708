@@ -59,7 +59,8 @@
 
 ## 📂 Projects
 
-- 🤖 **ReviewAI**  
+- 🤖 **ReviewAI**
+  🌐 [Live Demo](reviewai-pi.vercel.app)
   🔗 [Repository](https://github.com/athi1708/reviewai)
 
 - 📊 **Customer Churn Prediction**  
@@ -69,10 +70,12 @@
 - 🏏 **IPL Analysis**  
   🔗 [Repository](https://github.com/athi1708/ipl-analysis)
 
-- 👁️ **Object Detection**  
+- 👁️ **Object Detection**
+  🌐 [Live Demo](https://object-detection-5p7rjnpjdt9gppf4i7gppy.streamlit.app/)
   🔗 [Repository](https://github.com/athi1708/object-detection)
 
-- 📚 **RAG App**  
+- 📚 **RAG App**
+  🌐 [Live Demo](https://rag-app-jhp6uegy3xyubvdbf4qpfj.streamlit.app/)
   🔗 [Repository](https://github.com/athi1708/rag-app)
 
 ---
