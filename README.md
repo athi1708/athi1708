@@ -60,9 +60,8 @@
 ## 📂 Projects
 
 - 🤖 **ReviewAI**
-
-  🌐 [Live Demo](reviewai-pi.vercel.app)
-  🔗 [Repository](https://github.com/athi1708/reviewai)
+- 🌐 [Live Demo](reviewai-pi.vercel.app)
+- 🔗 [Repository](https://github.com/athi1708/reviewai)
 
 - 📊 **Customer Churn Prediction**  
   🌐 [Live Demo](https://athi1708.github.io/churn-prediction/)  
