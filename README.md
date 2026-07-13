@@ -87,22 +87,6 @@ Interactive Power BI dashboard and data analysis of IPL statistics.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=athi1708&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athi1708&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=athi1708&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
